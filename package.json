@@ -1,0 +1,32 @@
+{
+  "name": "case_uber",
+  "version": "0.0.1",
+  "description": "just trying something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/test-uber.git"
+  },
+  "keywords": [
+    "uber",
+    "Doron",
+    "Segal",
+    "Node.js"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/test-uber/issues"
+  },
+  "homepage": "https://github.com/doron2402/test-uber",
+  "dependencies": {
+    "hapi": "~1.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "~1.0.6"
+  }
+}
