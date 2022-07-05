@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/doron2402/test-uber",
   "dependencies": {
-    "hapi": "~1.20.0"
+    "hapi": "~2.0.0"
   },
   "devDependencies": {
     "nodemon": "~1.0.6"
